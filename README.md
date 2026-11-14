@@ -77,11 +77,11 @@ All in-game text is written in simplified language that assumes no prior knowled
 
 The Martian environment, including weather and gravity, is derived from real Mars data.
 
-| Data | Source | Retrieval method |
+| Data | Source | Link |
 |---|---|---|
-| Mars weather | | https://ccmc.gsfc.nasa.gov/tools/DONKI |
-| Mars gravity and other physical characteristics | | https://api.nasa.gov |
-| Models | | https://science.nasa.gov/3d-resources |
+| Mars weather | Space Weather Database Of Notifications, Knowledge, Information (DONKI) | https://ccmc.gsfc.nasa.gov/tools/DONKI |
+| Mars gravity and other physical characteristics | NASA Open APIs | https://api.nasa.gov |
+| Models | Official NASA website | https://science.nasa.gov/3d-resources |
 
 ## 6. Current Scope and Planned Work
 

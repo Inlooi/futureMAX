@@ -81,7 +81,7 @@ The Martian environment, including weather and gravity, is derived from real Mar
 | Data | Source | Link |
 |---|---|---|
 | Mars weather | Space Weather Database Of Notifications, Knowledge, Information (DONKI) | https://ccmc.gsfc.nasa.gov/tools/DONKI |
-| Mars gravity and other physical characteristics | NASA Open APIs | https://api.nasa.gov |
+| Terrain generation | Mars Trek | https://trek.nasa.gov/mars |
 | Models | Official NASA website | https://science.nasa.gov/3d-resources |
 
 ## 6. Current Scope and Planned Work
@@ -102,9 +102,9 @@ The Martian environment, including weather and gravity, is derived from real Mar
 
 | Component | Description |
 |---|---|
-| **Version control** | GitHub |
-| **Build automation** | GitHub Actions builds the project automatically. The build output excludes assets that are not needed at runtime, which keeps the deployed package small. |
-| **Deployment** | Vercel hosts the build, so testers can open the game directly in a browser. |
+| **Engine & Language** | Unity (WebGL build) & C#. |
+| **Development Workflow** | Streamlined and optimized using Claude Code to accelerate scripting, physics tuning, and UI logic. |
+| **Data Integrity** | Seamlessly integrates real space datasets into interactive 3D mechanics. |
 
 ## 8. Team
 

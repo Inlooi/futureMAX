@@ -2,6 +2,7 @@
 
 ## [DEPLOYMENT](https://inlooi.github.io/futureMAX/)
 
+[![CI/CD](https://github.com/Inlooi/futureMAX/actions/workflows/build.yml/badge.svg)](https://github.com/Inlooi/futureMAX/actions/workflows/build.yml)
 
 **A first-person Mars base simulator that teaches how a Martian outpost is kept alive.**
 

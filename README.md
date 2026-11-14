@@ -10,10 +10,11 @@ Developed by **FutureMax** for the **NASA Space Apps Challenge 2026**
 | **Members** | Arthur Galeev, Emir Balybaev, Umar Satybaldiev, Choro Ukushov |
 | **Platform** | Desktop web browser, no installation or account required |
 | **Genre** | Singleplayer, first-person 3D simulation |
-| **Target audience** | Learners aged 7 to 12, with suitability for classrooms and families |
+| **Target audience** | Learners aged 7 to 18, with suitability for classrooms and families |
 | **Status** | Working prototype |
-| **Demo video** | |
-| **Space Apps submission** | |
+| **Demo video** | TBA |
+| **Space Apps team page** | TBA |
+| **Live prototype** | TBA |
 
 ---
 

@@ -16,7 +16,7 @@ Developed by **FutureMax** for the **NASA Space Apps Challenge 2026**
 | **Genre** | Singleplayer, first-person 3D simulation |
 | **Target audience** | Learners aged 7 to 18+, with suitability for classrooms and families |
 | **Status** | Working prototype |
-| **Demo video** | **[Youtube](https://www.youtube.com/watch?v=aLOgwjpPavY)** |
+| **Demo video** | **[Youtube](https://youtu.be/KFd3FKKQmZc)** |
 | **Space Apps team page** | **[FutureMax](https://www.spaceappschallenge.org/2026/find-a-team/futuremax/?tab=details)**|
 
 ---

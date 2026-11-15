@@ -1,6 +1,7 @@
 ![Logo of our project Redwatch](https://i.pinimg.com/1200x/92/62/48/9262483bc1881c6739f0a90765c9efd6.jpg)
 
 ## [DEPLOYMENT](https://inlooi.github.io/futureMAX/)
+**❗MIGHT TAKE SOME TIME TO LOAD THE GAME❗**
 
 [![CI/CD](https://github.com/Inlooi/futureMAX/actions/workflows/build.yml/badge.svg)](https://github.com/Inlooi/futureMAX/actions/workflows/build.yml)
 
